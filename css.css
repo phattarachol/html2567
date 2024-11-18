@@ -1,0 +1,12 @@
+.price {
+    text-align: right;
+    background-color: blueviolet;
+    border: 10px;
+    display: inline;
+}
+#name {
+    color: green;
+}
+#name {
+    color: blue;
+}
